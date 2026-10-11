@@ -1,6 +1,6 @@
 # Paddle in Sync
 
-叠滘龙舟文化互动体验游戏试玩版。
+叠滘龙舟文化互动体验游戏，当前版本由「茶基直道-最低画质」Unity 工程构建。
 
 ## 在线试玩
 
@@ -10,8 +10,8 @@
 
 ## Windows 本机版
 
-[下载 Paddle.in.Sync-Windows.zip](https://github.com/jane2632626881-a11y/paddle-in-sync/releases/download/v1.0-demo/Paddle.in.Sync-Windows.zip)，解压后运行 `Paddle in Sync.exe`。本机版保留串口船桨交互，项目配置使用 COM9、COM10、COM11，波特率 115200；需按实际硬件连接设置串口。实体船桨尚未在这台电脑上完成联机实测。
+[下载最低画质 Windows 版](https://github.com/jane2632626881-a11y/paddle-in-sync/releases/download/v1.1-low-quality/Paddle.in.Sync-Windows-LowQuality.zip)，解压后运行 `Paddle in Sync.exe`。本机版保留串口船桨交互，项目配置使用 COM9、COM10、COM11，波特率 115200；需按实际硬件连接设置串口。实体船桨尚未在这台电脑上完成联机实测。
 
 ## WebGL 备份包
 
-[下载 Paddle.in.Sync-WebGL.zip](https://github.com/jane2632626881-a11y/paddle-in-sync/releases/download/v1.0-demo/Paddle.in.Sync-WebGL.zip)。WebGL 文件已部署到 Cloudflare R2，网页试玩地址见上方。完整 Unity 工程没有包含在这个发行仓库中。
+[下载最低画质 WebGL 备份包](https://github.com/jane2632626881-a11y/paddle-in-sync/releases/download/v1.1-low-quality/Paddle.in.Sync-WebGL-LowQuality.zip)。WebGL 文件已部署到 Cloudflare R2，网页试玩地址见上方。完整 Unity 工程没有包含在这个发行仓库中。
